@@ -7,12 +7,12 @@ This code will implement a Bayesian, Monte Carlo-driven,
 radiative-transfer scheme for extracting parameters from spectra of
 planetary atmospheres.  It is being developed by:
 
-Joseph Harrington
-Jasmina Blecic
-Patricio Cubillos
-Sarah Blumenthal
-Oliver Bowman
-Andrew Foster
+Joseph Harrington,
+Jasmina Blecic,
+Patricio Cubillos,
+Sarah Blumenthal,
+Oliver Bowman,
+Andrew Foster,
 Madison Stemm
 
 With support from:
